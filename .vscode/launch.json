@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PowerCalculation",
+            "request": "launch",
+            "mainClass": "PowerCalculation",
+            "projectName": "dsa-java_cb15893f"
+        },
+        {
+            "type": "java",
             "name": "SumOfDigit",
             "request": "launch",
             "mainClass": "SumOfDigit",
