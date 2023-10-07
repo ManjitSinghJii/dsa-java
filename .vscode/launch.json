@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringPalindrome",
+            "request": "launch",
+            "mainClass": "StringPalindrome",
+            "projectName": "dsa-java_cb15893f"
+        },
+        {
+            "type": "java",
             "name": "Factroial",
             "request": "launch",
             "mainClass": "Factroial",
