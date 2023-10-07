@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfDigit",
+            "request": "launch",
+            "mainClass": "SumOfDigit",
+            "projectName": "dsa-java_cb15893f"
+        },
+        {
+            "type": "java",
             "name": "StringPalindrome",
             "request": "launch",
             "mainClass": "StringPalindrome",
