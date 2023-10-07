@@ -2,14 +2,14 @@ import java.util.Scanner;
 
 // Write a Recursion Code For Print number of sum?
 
-public class PrintNumber {
+public class SumNumber {
 
     public static void main(String[] args) {
 
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter Number for its Sum  : ");
         int n=sc.nextInt();
-        PrintNumber p= new PrintNumber();
+        SumNumber p= new SumNumber();
         int sums=p.numberSum(n);
         System.out.println(sums);
         sc.close();
