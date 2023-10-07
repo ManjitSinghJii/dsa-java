@@ -18,6 +18,8 @@ public class PowerCalculation {
     // }
 
     // Approach ----------------2-----------------?
+    // a^10 = a^5 * a^5
+    // a^13 = a^6 * a^6 * a
 
     int power(int a, int n){
         if(n==0){
