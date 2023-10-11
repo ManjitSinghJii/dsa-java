@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedListSize",
+            "request": "launch",
+            "mainClass": "LinkedListSize",
+            "projectName": "dsa-java_cb15893f"
+        },
+        {
+            "type": "java",
             "name": "DeleteLinledList",
             "request": "launch",
             "mainClass": "DeleteLinledList",
