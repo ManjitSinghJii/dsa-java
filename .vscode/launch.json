@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintAllSubArray",
+            "request": "launch",
+            "mainClass": "PrintAllSubArray",
+            "projectName": "dsa-java_cb15893f"
+        },
+        {
+            "type": "java",
+            "name": "MaximumAndPair",
+            "request": "launch",
+            "mainClass": "MaximumAndPair",
+            "projectName": "dsa-java_cb15893f"
+        },
+        {
+            "type": "java",
             "name": "LinkedListSize",
             "request": "launch",
             "mainClass": "LinkedListSize",
