@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LengthOfConsecutive",
+            "request": "launch",
+            "mainClass": "Bit_Manuplation.LengthOfConsecutive",
+            "projectName": "dsa-java_cb15893f"
+        },
+        {
+            "type": "java",
             "name": "ReverseArray",
             "request": "launch",
             "mainClass": "ReverseArray",
