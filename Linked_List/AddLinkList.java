@@ -23,6 +23,9 @@ class LinkList{
     
     void add(int data){
         
+
+        // How to add an element to linkList..............
+
         Node temp = new Node(data);
 
         if (head == null) {
